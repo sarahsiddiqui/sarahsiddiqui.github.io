@@ -1,7 +1,11 @@
 # Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+> Sarah Siddiqui: this repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
 
-> https://varadbhogayata.github.io
+> Using a portfolio template for Software Developers by Varad Bhogayata
+
+> https://sarahsiddiqui.github.io
+
+![image](https://github.com/user-attachments/assets/42990ede-72a7-421f-843b-6117e2f8ac0b)
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
